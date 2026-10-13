@@ -8,8 +8,6 @@ import com.dio.dio_itau_design_patterns_spring.service.ViaCepService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Optional;
-
 @Service
 public class ClientServiceImpl implements ClientService {
 
